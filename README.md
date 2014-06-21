@@ -3,7 +3,7 @@ AirDelivery
 
 JC2-MP addon that allows players to deliver packages by plane, runway to runway.
 
-This is a rough framework for "taxi" stlye delivery missions that I started this project to help familiaze myself with the JC2MP API.  There's next to no polish but I figured others might gain something from it. Feel free to modify/copy/interpret.
+This is a rough framework for "taxi" stlye delivery missions that I started to help familiaze myself with the JC2MP API.  There's next to no polish but I figured others might gain something from it. Feel free to modify/copy/interpret.
 
 #### Usage
 
@@ -16,6 +16,7 @@ This is a rough framework for "taxi" stlye delivery missions that I started this
 - Spawning a player at an open runway in the given vehicle
 - Vehicle cleanup during module crash/mission completion
 - Radius and speed checks to confirm landing
+- Chat notifications for mission start/finish
 
 #### Unimplemented Features
 
