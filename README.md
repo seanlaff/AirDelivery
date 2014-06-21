@@ -1,7 +1,7 @@
 AirDelivery
 ===========
 
-JC2-MP addon that allows players to deliver packages by plane, runway to runway
+JC2-MP addon that allows players to deliver packages by plane, runway to runway.
 
 This is a rough framework for "taxi" stlye delivery missions that I started this project to help familiaze myself with the JC2MP API.  There's next to no polish but I figured others might gain something from it. Feel free to modify/copy/interpret.
 
@@ -29,5 +29,6 @@ This is a rough framework for "taxi" stlye delivery missions that I started this
 - SAM site enemies
 - Parachute package drop missions
 - Bombing missions
+- Chaining missions together (Crazy-Taxi style)
 
 
